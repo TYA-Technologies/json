@@ -1,0 +1,3 @@
+secret: https://www.random.org/strings/?num=50&len=32&digits=on&upperalpha=on&loweralpha=on&unique=on&format=html&rnd=new
+salt: https://www.random.org/strings/?num=50&len=10&digits=on&upperalpha=on&loweralpha=on&unique=on&format=html&rnd=new
+key: https://www.random.org/strings/?num=50&len=5&digits=on&upperalpha=on&loweralpha=on&unique=on&format=html&rnd=new
